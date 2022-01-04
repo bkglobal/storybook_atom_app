@@ -435,7 +435,12 @@ exports[`Storyshots TaskList Empty 1`] = `
       <div
         className="subtitle-message"
       >
-        Sit back and relax
+        Sit back and relax Please
+      </div>
+      <div
+        className="subtitle-message"
+      >
+        Stay calm
       </div>
     </div>
   </div>
