@@ -34,7 +34,8 @@ export default function TaskList({ loading, tasks, onPinTask, onArchiveTask }) {
         <div className="wrapper-message">
           <span className="icon-check" />
           <div className="title-message">You have no tasks</div>
-          <div className="subtitle-message">Sit back and relax</div>
+          <div className="subtitle-message">Sit back and relax Please</div>
+          <div className="subtitle-message">Stay calm</div>
         </div>
       </div>
     );
